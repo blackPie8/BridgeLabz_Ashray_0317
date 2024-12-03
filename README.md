@@ -9,4 +9,8 @@ Topics Covered - a) for-loop Problems b) while loop Problems c) functions Implem
 -------------
 
 Date - 4-12-24
+<<<<<<< HEAD
 Topics Covered - a)
+=======
+Topics Covered - a) 
+>>>>>>> e56007b8f52bac9006a517967c336d10e300ec40
