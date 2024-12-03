@@ -8,5 +8,5 @@ Topics Covered - a) for-loop Problems b) while loop Problems c) functions Implem
 
 -------------
 
-Da te - 4-12-24
-    jjTopics Covered - a)
+Date - 4-12-24
+Topics Covered - a)
