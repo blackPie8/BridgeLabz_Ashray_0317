@@ -8,3 +8,8 @@ Topics Covered - a) for-loop Problems b) while loop Problems c) functions Implem
 
 -------------
 
+Date - 9-12-24
+Topics Covered - a) Array Methods b) String Methods c) Array & String Problems
+
+-------------
+
