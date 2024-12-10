@@ -13,3 +13,7 @@ Topics Covered - a) Array Methods b) String Methods c) Array & String Problems
 
 -------------
 
+Date - 10-12-24
+Topics Covered -a) Most Frequent Questions/Logics on Array
+
+-------------
