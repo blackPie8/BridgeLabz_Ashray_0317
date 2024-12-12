@@ -14,12 +14,17 @@ Topics Covered - a) Array Methods b) String Methods c) Array & String Problems
 -------------
 
 Date - 10-12-24
-Topics Covered -a) Most Frequent Questions/Logics on Array
+Topics Covered - a) Most Frequent Questions/Logics on Array
 
 -------------
 
 Date - 11-12-24
-Topics Covered -a) Array Operations(Deletion, Searching, Insertion, Traversal, Sorting)
+Topics Covered - a) Array Operations(Deletion, Searching, Insertion, Traversal, Sorting)
+
+-------------
+
+Date - 12-12-24
+Topics Covered - a) 20 Questions from JS Practice Sheet
 
 -------------
 
