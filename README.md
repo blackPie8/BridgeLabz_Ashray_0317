@@ -48,3 +48,8 @@ Topics Covered - a) Linked List using Class - Insert at end, Insert at beg, Inse
 
 -------------
 
+Date - 20-12-24
+Topics Covered - a) Operations on Singly Linked List
+
+-------------
+
