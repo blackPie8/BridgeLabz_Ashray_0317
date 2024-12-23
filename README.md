@@ -53,3 +53,8 @@ Topics Covered - a) Operations on Singly Linked List
 
 -------------
 
+Date - 23-12-24
+Tpoics Covered - a) Doubly Linked-List b) Queue using LL c) Stack using LL d) Binary Tree
+
+-------------
+
