@@ -54,7 +54,12 @@ Topics Covered - a) Operations on Singly Linked List
 -------------
 
 Date - 23-12-24
-Tpoics Covered - a) Doubly Linked-List b) Queue using LL c) Stack using LL d) Binary Tree
+Topics Covered - a) Doubly Linked-List b) Queue using LL c) Stack using LL d) Binary Tree
+
+-------------
+
+Date - 24-12-24
+Topics Covered - a) Circular Linked-List b) Binary Search Tree
 
 -------------
 
