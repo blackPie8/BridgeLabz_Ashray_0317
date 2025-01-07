@@ -73,3 +73,8 @@ Topics Covered -a) Vacations Assignment
 
 -------------
 
+Date - 07-01-25
+Topics Covered -a) Closures b) Prototypal Inheritance c) Generator functions d) Proxy functions e) Async Iterator f) Decorators
+
+-------------
+
