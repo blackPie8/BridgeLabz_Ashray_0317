@@ -79,7 +79,7 @@ Topics Covered -a) Closures b) Prototypal Inheritance c) Generator functions d) 
 -------------
 
 Date - 08-01-25
-Topics Covered -a) Revision Data Structures
+Topics Covered -a) Data Structures Revision
 
 -------------
 
