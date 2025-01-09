@@ -83,4 +83,9 @@ Topics Covered -a) Data Structures Revision
 
 -------------
 
+Date - 09-01-25
+Topics Covered - a) Objects b) Classes c) Object references and copying d) Object Methods
+
+-------------
+
 
