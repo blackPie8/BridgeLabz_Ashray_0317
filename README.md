@@ -88,4 +88,8 @@ Topics Covered - a) Objects b) Classes c) Object references and copying d) Objec
 
 -------------
 
+Date - 10-01-25
+Topics Covered - a) Garbage Collection b) Optional-chaining c) this keyword
+
+-------------
 
