@@ -93,3 +93,9 @@ Topics Covered - a) Garbage Collection b) Optional-chaining c) this keyword
 
 -------------
 
+Date - 13-01-25
+Topics Covered - a) Advanced JS Programming
+
+-------------
+
+
