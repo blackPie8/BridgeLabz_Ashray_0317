@@ -98,4 +98,8 @@ Topics Covered - a) Advanced JS Programming
 
 -------------
 
+Date - 14-01-25
+Topics Covered - a) async/await b) callback/microtask c) currying
+
+------------
 
